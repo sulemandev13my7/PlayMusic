@@ -1,0 +1,6 @@
+{
+  "name": "PLAY - Music Streaming App",
+  "description": "A sleek dark-mode music streaming and discovery application featuring interactive playback, curated playlists, artist profiles, and synchronized lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
